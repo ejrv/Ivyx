@@ -1,3 +1,4 @@
 # Ivyx-Browser-beta
 iVyx Browser Alpha-beta Center
-BEST BROWSER EVER MADE !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Developement Till" Gangsta'
+ https://raw.githubusercontent.com/TuraMax/Ivyx/main/development.txt
