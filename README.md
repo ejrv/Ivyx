@@ -1,3 +1,4 @@
 # Ivyx-Browser-beta
+
 iVyx Browser Alpha-beta Center
-[:heart: Sponsor](https://github.com/sponsors/Chimera32)
+[![Github Sponsorship](img/github_sponsor_btn.svg)](https://github.com/sponsors/Chimera32)
